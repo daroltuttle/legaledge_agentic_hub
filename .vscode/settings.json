@@ -51,4 +51,6 @@
     "typescript",
     "typescriptreact"
   ]
+  ,
+  "python.defaultInterpreterPath": "${workspaceFolder}\\.venv\\Scripts\\python.exe"
 }
